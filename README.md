@@ -1,4 +1,4 @@
-# Express.js MongoDB RestAPI Blog
+# Blog Website
 
 This repository contains the backend code for a RESTful API built using Express.js and MongoDB to manage a blog. This API allows you to perform CRUD operations (Create, Read, Update, Delete) on blog posts, providing a simple way to interact with blog content.
 
