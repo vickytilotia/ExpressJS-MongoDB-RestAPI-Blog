@@ -72,3 +72,6 @@ Contributions are welcome! If you find any issues or want to enhance the project
 3. Commit your changes: `git commit -am 'Add feature'`.
 4. Push to the branch: `git push origin feature-name`.
 5. Submit a pull request.
+
+## Snapshots
+![home page](https://github.com/vickytilotia/ExpressJS-MongoDB-RestAPI-Blog/assets/32337899/54540bec-567e-402d-b68f-293207ffd35e)
